@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="fire">#fd7d24</color>
+    <color name="water">#4592c4</color>
+    <color name="grass">#9bcc50</color>
+    <color name="electric">#eed535</color>
+    <color name="rock">#a38c21</color>
+    <color name="ground">#ab9842</color>
+    <color name="posion">#b97fc9</color>
+    <color name="flying">#3dc7ef</color>
+    <color name="bug">#729f3f</color>
+    <color name="normal">#a4acaf</color>
+    <color name="fighting">#d56723</color>
+    <color name="psychic">#f366b9</color>
+    <color name="ice">#51c4e7</color>
+
+    <color name="black">@android:color/black</color>
+    <color name="white">@android:color/white</color>
+
+    <color name="background">#282727</color>
+</resources>
