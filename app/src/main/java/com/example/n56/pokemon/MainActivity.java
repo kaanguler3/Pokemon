@@ -18,7 +18,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-public class MainActivity extends AppCompatActivity{
+public class MainActivity extends AppCompatActivity {
     SearchView searchView;
     ListView listView_pokemons;
 
@@ -39,8 +39,6 @@ public class MainActivity extends AppCompatActivity{
         pokemonListAdapter = new PokemonListAdapter(getApplicationContext(), pokemons);
         listView_pokemons.setAdapter(pokemonListAdapter);
     }
-
-
 
     public class PokemonListAdapter extends ArrayAdapter<Pokemon> {
 
